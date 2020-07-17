@@ -17,3 +17,4 @@ spec:
           image: myeventstormingregistry.azurecr.io/delivery
           ports:
             - containerPort: 8080
+   
